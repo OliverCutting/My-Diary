@@ -11,16 +11,16 @@
 
 ### Daily Goals
 #### Wednesday:
-*GOAL Learn more about rspec matchers
+* GOAL: Learn more about rspec matchers
 
-*PLAN Try and use .to eq alternatives in my work
+* PLAN: Try and use .to eq alternatives in my work
 
-*EVIDENCE I can use alternatives such as respond_to and raise_error
+* EVIDENCE: I can use alternatives such as respond_to and raise_error
 
 #### Thursday
-*GOAL Follow an effective debugging process
+* GOAL: Follow an effective debugging process
 
-*PLAN Complete the card game debugging exercise methodically
+* PLAN: Complete the card game debugging exercise methodically
 
-*EVIDENCE debugging_card_game exercise completed
+* EVIDENCE: debugging_card_game exercise completed
 
