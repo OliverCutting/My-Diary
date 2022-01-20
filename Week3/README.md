@@ -6,6 +6,9 @@
 - [x] Pair using the driver-navigator style 
 - [x] Follow an effective debugging process 
 
+#### Evidence
+* Proof of my weekly goals being met is in the boris-bikes repo. Boris bikes was a pair programming challenge we undertook throughout the week to build from the ground up an application which would manage a docking station for bikes. This was my first real experience with test driven development and a heavy focus was put on the feature test -> unit test -> red -> green -> refactor cycle and I came out of it with a good understanding of why it is so important.
+
 ### Daily Goals
 #### Wednesday:
 *GOAL Learn more about rspec matchers

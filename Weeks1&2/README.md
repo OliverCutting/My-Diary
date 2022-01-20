@@ -1,6 +1,6 @@
 # Weeks 1 & 2: Basic Programming
 
-Throughout weeks 1 & 2 I have attended workshops with Makers Academy on topics such as Control Flow, Arrays, Hashes, Methods, and Classes. I have also worked through Modules 1 & 2 of my Makers Bootcamp during which I produced a variety of practice programs to aid my understanding of what I have been taught. Many of these programs are available on GitHub in my ruby-practice repo.
+Throughout weeks 1 & 2 I have attended workshops with Makers Academy on topics such as Control Flow, Arrays, Hashes, Methods, and Classes. I have also worked through Modules 1 & 2 of my Makers Bootcamp during which I produced a variety of practice programs to aid my understanding of what I have been taught. Many of these programs are available here. I also created a student-directory application which is available as a seperate repo on my GitHub.
 
 At the end of modules 1 & 2 I can:
 #### Navigate a unix command line
