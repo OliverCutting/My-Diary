@@ -9,5 +9,5 @@
 ### Daily Goals
 #### Wednesday:
 * Learn more about rspec matchers [x]
-** Try and use .to eq alternatives in the bank account exercise and in my pair programming
-*** If I can use and explain situations where I would want to use the different matchers
+ * Try and use .to eq alternatives in the bank account exercise and in my pair programming
+  * If I can use and explain situations where I would want to use the different matchers
