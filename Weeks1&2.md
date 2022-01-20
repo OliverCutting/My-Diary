@@ -3,10 +3,10 @@
 Throughout weeks 1 & 2 I have attended workshops with Makers Academy on topics such as Control Flow, Arrays, Hashes, Methods, and Classes. I have also worked through Modules 1 & 2 of my Makers Bootcamp during which I produced a variety of practice programs to aid my understanding of what I have been taught. Many of these programs are available on GitHub in my ruby-practice repo.
 
 At the end of modules 1 & 2 I can:
--Navigate a unix command line
--Version control projects
--Write a procedural program
--Use a process for solving a problem
+#### Navigate a unix command line
+#### Version control projects
+#### Write a procedural program
+#### Use a process for solving a problem
 
 ## Skills Breakdown
 
