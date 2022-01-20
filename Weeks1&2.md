@@ -17,7 +17,7 @@ To achieve this goal I have used the command line to complete all tasks I can fr
 To achieve this goal I have used git to pull, add, commit, and push my completed Mastery Quizzes to and from GitHub
 
 ### Write a procedural program
-#### I can write programs using variables
+#### I can write programs using variables:
 Mastery Quizzes, Chapter 1
 
 Mastery Quizzes, Chapter 2
@@ -28,7 +28,7 @@ Free code camp (0 - 1 hr 12)
 
 Codecademy (introduction to ruby)
 
-#### I can write programs using conditional logic
+#### I can write programs using conditional logic:
 Mastery Quizzes, Chapter 4
 
 Mastery Quizzes, Chapter 5
@@ -37,14 +37,14 @@ Free code camp (1 hr 40 - 2 hr 05)
 
 Codecademy (control flow in ruby)
 
-#### I can write programs using loops
+#### I can write programs using loops:
 Mastery Quizzes, Chapter 6
 
 Free code camp (2 hr 15 - 3hr 05)
 
 Codecademy (loops iterators)
 
-#### I can write my own classes and methods
+#### I can write my own classes and methods:
 Mastery Quizzes, Chapter 9
 
 Mastery Quizzes, Chapter 10
@@ -52,7 +52,7 @@ Mastery Quizzes, Chapter 10
 How to write your own classes in Ruby
 
 
-#### I can write programs using arrays and hashmaps
+#### I can write programs using arrays and hashmaps:
 Mastery Quizzes, Chapter 7
 
 Mastery Quizzes, Chapter 8
