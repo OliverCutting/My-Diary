@@ -22,5 +22,12 @@
 
 * PLAN: Complete the card game debugging exercise methodically
 
-* EVIDENCE: debugging_card_game exercise completed
+* EVIDENCE: debugging_card_game exercise completed and saved in this repo
+
+#### Friday
+* GOAL: Fully implement test driven development and isolated testing
+
+* PLAN: Complete the airport challenge
+
+* EVIDENCE: 
 
