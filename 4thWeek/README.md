@@ -12,9 +12,9 @@
 
 ### Daily Goals
 #### Monday
-* GOAL: 
+* GOAL: Learn about encapsulation 
 
-* PLAN:
+* PLAN: Complete reading and exercises around High cohesion and low coupling
 
 * EVIDENCE:
 
