@@ -11,35 +11,35 @@
 #### Evidence
 
 ### Daily Goals
-#### Monday:
+#### Monday
 * GOAL: 
 
 * PLAN:
 
 * EVIDENCE:
 
-#### Tuesday:
+#### Tuesday
 * GOAL:
 
 * PLAN:
 
 * EVIDENCE: 
 
-#### Wednesday:
+#### Wednesday
 * GOAL: 
 
 * PLAN:
 
 * EVIDENCE: 
 
-#### Thursday:
+#### Thursday
 * GOAL: 
 
 * PLAN:
 
 * EVIDENCE: 
 
-#### Friday:
+#### Friday
 * GOAL: 
 
 * PLAN:
