@@ -22,5 +22,19 @@
 
 * PLAN: Complete the card game debugging exercise methodically
 
-* EVIDENCE: debugging_card_game exercise completed
+* EVIDENCE: debugging_card_game exercise completed and saved in this repo
+
+#### Friday
+* GOAL: Fully implement test driven development and isolated testing
+
+* PLAN: Complete the airport challenge
+
+* EVIDENCE: airport-challenge repo created 
+
+### Reflection
+#### Thoughts
+I found this week much harder than last however I still managed to meet all my personal goals and I am still quite confident with my work. I believe using RSPEC and the test driven development cycle will take a bit longer to fully cement however I believe I am on the right track still.
+
+#### Improvements
+Next week I will continue to put extra focus on using the TDD cycle to try and improve my creative process. I also am going to try and be more active during my breaks from work to try and improve my health and clear my mind for coding more.
 
