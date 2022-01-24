@@ -1,6 +1,6 @@
 # Week 4: Object Oriented Design
 
-### Weekly Goals:
+### Weekly Goals
 - [x] Review another person's code and learn from what they wrote
 - [x] Review another person's code and give them meaningful feedback
 - [] Explain some basic OO principles and tie them to high level concerns (e.g. ease of change) 
@@ -8,9 +8,9 @@
 - [] Test classes in isolation using mocking and dependency injection
 - [] Apply some basic OOP principles in tightly focused exercises
  
-#### Evidence:
+#### Evidence
 
-### Daily Goals:
+### Daily Goals
 #### Monday:
 * GOAL: 
 
@@ -46,8 +46,8 @@
 
 * EVIDENCE:  
 
-### Reflection:
-#### Thoughts:
+### Reflection
+#### Thoughts
 
 
-#### Improvements:
+#### Improvements
