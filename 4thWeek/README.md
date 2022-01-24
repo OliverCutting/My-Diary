@@ -32,14 +32,14 @@
 
 * EVIDENCE: 
 
-#### Thursday
+#### Thursday:
 * GOAL: 
 
 * PLAN:
 
 * EVIDENCE: 
 
-#### Friday
+#### Friday:
 * GOAL: 
 
 * PLAN:
