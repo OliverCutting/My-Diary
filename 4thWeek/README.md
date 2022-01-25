@@ -16,12 +16,12 @@
 
 * PLAN: Complete reading and exercises around High cohesion and low coupling
 
-* EVIDENCE:
+* EVIDENCE: I read around encapsulation however did not complete the corresponding exercise.
 
 #### Tuesday
-* GOAL:
+* GOAL: Complete High cohesion and low coupling exercise
 
-* PLAN:
+* PLAN: Continue my work from yesterday
 
 * EVIDENCE: 
 
