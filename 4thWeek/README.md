@@ -23,7 +23,7 @@
 
 * PLAN: Continue my work from yesterday
 
-* EVIDENCE: 
+* EVIDENCE: Today I did a lot more reading/researching on the concepts of encapsulation and high cohesion/low coupling and managed to complete the exercise "secretdiary" with a much better understanding of the topic. For the exercise I had to create a program called secretdiary all under one class which could be locked and unlocked, then I have to acheive high cohesion/low coupling by seperating that class into seperate objects a key and the diary. My final piece is included in this repo.
 
 #### Wednesday
 * GOAL: 
