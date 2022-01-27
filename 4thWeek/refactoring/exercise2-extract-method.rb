@@ -14,7 +14,7 @@ end
 # AFTER
 
 def tell_browser_type(browser)
-  is_this_safari ? true_response : false_response
+  is_this_safari(browser) ? puts true_response : false_response
 end
 
 def is_this_safari(browser)

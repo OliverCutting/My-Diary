@@ -11,16 +11,11 @@ end
 # AFTER
 
 def send_email_to(user)
-  email = get_email(user)
-  mail  = start_convo(email)
+  mail  = Mail.new(start_convo(get_email(user))
   
   mail.send_message
 end
 
 def get_email(user)
   user.email.strip
-end
-
-def start_convo(email)
-  Mail.new(email)
 end
