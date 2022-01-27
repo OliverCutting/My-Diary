@@ -37,7 +37,7 @@
 
 * PLAN: Use extract method extract variable techniques to complete refactoring exercises
 
-* EVIDENCE: 
+* EVIDENCE: refactoring exercises complete!
 
 #### Friday
 * GOAL: 
