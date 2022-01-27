@@ -9,14 +9,9 @@
 
 #After
 
-def get_email(user)
-  user.email.strip
-end
-
-def start_convo(user)
-  Mail.new(get_email(user))
-end
-
 def send_email_to(user)
-  start_convo(user).send_message
+  email = user.email.strip
+  mail  = Mail.new(email)
+  
+  mail.send_message
 end
