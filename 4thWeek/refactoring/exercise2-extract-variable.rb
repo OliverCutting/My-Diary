@@ -14,17 +14,9 @@
 #AFTER
 
 def tell_browser_type(browser)
-  is_this_safari?(browser) ? true_response : false_response
-end
+  browser_type_is_safari = browser.type == "Safari"
+  safari_message = "You are using the Safari browser."
+  not_safari_message = "You are using a non-Safari browser."
 
-def true_response
-  "You are using the Safari browser"
-end
-
-def false_response
-  "You are using a non-Safari browser"
-end
-
-def is_this_safari?(browser)
-  browser.type == "Safari"
+  browser_type_is_safari ? puts safari_message : puts not_safari_message
 end
