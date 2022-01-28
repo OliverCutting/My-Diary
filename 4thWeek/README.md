@@ -40,11 +40,11 @@
 * EVIDENCE: refactoring exercises complete!
 
 #### Friday
-* GOAL: 
+* GOAL: Learn how to implement text sending functionality
 
-* PLAN:
+* PLAN: Implement the twilio api into my takeaway-challenge
 
-* EVIDENCE:  
+* EVIDENCE: The takeaway-challenge repo
 
 ### Reflection
 #### Thoughts
