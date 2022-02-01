@@ -15,12 +15,12 @@
 
 * PLAN: Read this weeks resources
 
-* EVIDENCE:
+* EVIDENCE: Read
 
 #### Tuesday
-* GOAL: 
+* GOAL: Make a start on learning how to control an automated web browser using capybara
 
-* PLAN: 
+* PLAN: Complete exercise and related reading
 
 * EVIDENCE: 
 
