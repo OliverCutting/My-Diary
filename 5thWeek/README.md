@@ -1,11 +1,11 @@
 # Week 5: The web!
 
 ### Weekly Goals
-- [] Write feature tests using Capybara
-- [] Test-drive a simple Sinatra app
-- [] Follow an effective process to debug web applications
-- [] Explain and diagram the HTTP request/response cycle
-- [] Explain and diagram the MVC pattern
+- [x] Write feature tests using Capybara
+- [x] Test-drive a simple Sinatra app
+- [x] Follow an effective process to debug web applications
+- [x] Explain and diagram the HTTP request/response cycle
+- [x] Explain and diagram the MVC pattern
  
 #### Evidence
 
@@ -22,21 +22,21 @@
 
 * PLAN: Complete exercise and related reading
 
-* EVIDENCE: 
+* EVIDENCE: Completed the capybara workout on herokuapp.com
 
 #### Wednesday
-* GOAL: 
+* GOAL: Create a basic server and application to be used from within the same network
 
-* PLAN: 
+* PLAN: Complete Servers/Client exercise and build a network controlled notes app!
 
-* EVIDENCE: 
+* EVIDENCE: Notes app repo created
 
 #### Thursday
-* GOAL: 
+* GOAL: Be able to link a HTML based front end to a ruby based back end
 
-* PLAN: 
+* PLAN: Build the battle app
 
-* EVIDENCE: 
+* EVIDENCE: Battle repo created
 
 #### Friday
 * GOAL: 
