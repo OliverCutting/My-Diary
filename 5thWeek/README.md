@@ -39,11 +39,11 @@
 * EVIDENCE: Battle repo created
 
 #### Friday
-* GOAL: 
+* GOAL: Understand the request-responce cycle
 
-* PLAN: 
+* PLAN: Draw diagrams to represent the cycle in one of my own pieces of work
 
-* EVIDENCE: 
+* EVIDENCE: I created a diagram for my rps-challenge and pushed it to my github repo 
 
 ### Reflection
 #### Thoughts
