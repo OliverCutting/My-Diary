@@ -15,18 +15,18 @@
 
 ### Daily Goals
 #### Monday
-* GOAL: 
+* GOAL: Learn how to structure a basic SQL query
 
-* PLAN:
+* PLAN: Complete quizzes on SQLzoo
 
-* EVIDENCE: 
+* EVIDENCE: All quizzes complete and makers-sql-session repo completed
 
 #### Tuesday
-* GOAL: 
+* GOAL: Learn about the differences between relational and non relational databases
 
-* PLAN: 
+* PLAN:  Research using Makers resources
 
-* EVIDENCE: 
+* EVIDENCE: Relational databases are databases where data is organised into large tables with rows and multiple columns. Non relational databases exist in multiple forms including key-value databases, document databases, and graph databases
 
 #### Wednesday
 * GOAL: 
