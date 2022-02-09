@@ -29,11 +29,11 @@
 * EVIDENCE: Relational databases are databases where data is organised into large tables with rows and multiple columns. Non relational databases exist in multiple forms including key-value databases, document databases, and graph databases
 
 #### Wednesday
-* GOAL: 
+* GOAL: Understand entity relationship diagrams and CRC diagrams, and be able to use them to plan out database structure
 
-* PLAN: 
+* PLAN: Practice drawing diagrams and complete the entity relationship diagram exercises. Attend makers workshop on CRC diagrams.
 
-* EVIDENCE: 
+* EVIDENCE: Exercises complete. Screenshot added to this repo of practice CRC diagram.
 
 #### Thursday
 * GOAL: 
