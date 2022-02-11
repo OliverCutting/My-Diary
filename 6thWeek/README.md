@@ -12,6 +12,7 @@
 - [x] Build a simple web app that can read from and write to a database
 
 #### Evidence
+Throughout this week I have put quite a bit of focus on knuckling down on my planning  process and this can be seen in my project repos. An example CRC card diagram has been added to this repo to show how I have been converting an idea into distinct classes and methods, with a database they interact with. Examples of web apps which use databases which I have worked on this week include the chitter-challenge repo which is a twitter-like app from solo challenge I undertook on friday and the my-bookmark-manager repo which is a site for storing bookmarks.
 
 ### Daily Goals
 #### Monday
