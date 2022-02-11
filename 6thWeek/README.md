@@ -36,22 +36,22 @@
 * EVIDENCE: Exercises complete. Screenshot added to this repo of practice CRC diagram.
 
 #### Thursday
-* GOAL: 
+* GOAL: Learn about Object Relational mappers
 
-* PLAN: 
+* PLAN: Research what they do and try and create my own following the walkthrough in the bookmark-manager challenge
 
-* EVIDENCE: 
+* EVIDENCE: my-bookmark-manager repo contains my ORM
 
 #### Friday
-* GOAL: 
+* GOAL: Research common vulnerabilities such as SQL injection and how to protect against them
 
-* PLAN: 
+* PLAN: Research and implement protection against SQL injection into my chitter challenge
 
-* EVIDENCE:  
+* EVIDENCE:  chitter-challenge repo uses exec_params to protect against SQL injection
 
 ### Reflection
 #### Thoughts
-
+I have come out of these week feeling on top of everything and I am extremely happy with my progress. Just yesterday I felt that this week was the most difficult for me to understand so far, and I was concerned about how much progress I would be able to make on the friday chitter solo challenge. However, all of the pieces fell perfectly into place today and I managed to satisfy all user stories on the chitter challenge aswell as adding in some of my own flair leaving me happy with my work and feeling on track with my progress as a software developer.
 
 #### Improvements
-
+Try and slow down when completing my pair programming challenges so that I am sure I fully understand not only WHAT is happening but also WHY it is happening and what is going on behind the scenes. Sometimes the desire to get more learning overides the need for quality learning and I need to make sure I keep an eye on that.
