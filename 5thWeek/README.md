@@ -8,6 +8,7 @@
 - [x] Explain and diagram the MVC pattern
  
 #### Evidence
+This week I produced 2 web apps, Battle and rps-challenge. Both of which were created using Sinatra and tested using Capybara. I continued to follow an effective debugging process very well during the production of these. I also produced diagrams which I uploaded alongside my projects which diagrammed the HTTP request/response cycle and the MVC pattern for those respective projects
 
 ### Daily Goals
 #### Monday
