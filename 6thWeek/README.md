@@ -1,4 +1,4 @@
-# Week 5: Databases
+# Week 6: Databases
 
 ### Weekly Goals
 - [x] Diagram the data flow from user action to server resource and back again
