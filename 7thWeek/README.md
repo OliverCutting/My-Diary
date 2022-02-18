@@ -10,6 +10,7 @@ This week I am tasked with creating an AirBnB-like webapp as part of a team of 4
 - [x] Recognise that contributions to teamwork do not always involve writing code
 
 #### Evidence
+Makersbnb repo holds all of my work for the week.
 
 ### Daily Goals
 #### Monday
