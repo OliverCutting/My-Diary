@@ -20,32 +20,32 @@ This week I am tasked with creating an AirBnB-like webapp as part of a team of 4
 * EVIDENCE: Our team came up with our plan for MVP and created the base site for it as a group
 
 #### Tuesday
-* GOAL: 
+* GOAL: Learn about git branching
 
-* PLAN:  
+* PLAN:  Split into pairs to work on different git branches and merge them to main at the end
 
-* EVIDENCE: 
+* EVIDENCE: Many branches created used and merged on the makersbnb repo
 
 #### Wednesday
-* GOAL: 
+* GOAL: Learn about Registration and Authentication
 
-* PLAN: 
+* PLAN: Use BCrypt to encrypt user details and allow registration/authentication
 
-* EVIDENCE: 
+* EVIDENCE: Makersbnb repo has this functionality
 
 #### Thursday
-* GOAL: 
+* GOAL: Perform more complex SQL queries linking multiple tables
 
-* PLAN: 
+* PLAN: Use foreign ids to link the bookings/rooms/users tables 
 
-* EVIDENCE: 
-
+* EVIDENCE: All tables are linked and some pages perform complex sql queries to draw information from multiple tables at a time
+ 
 #### Friday
-* GOAL: 
+* GOAL: Learn how to send emails from a program!
 
-* PLAN: 
+* PLAN: Use Pony to send confirmation emails!
 
-* EVIDENCE:  
+* EVIDENCE:  Makersbnb sends confirmation emails for signing up and notifications after performing multiple actions on the site!
 
 ### Reflection
 #### Thoughts
