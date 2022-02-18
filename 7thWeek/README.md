@@ -2,12 +2,12 @@
 This week I am tasked with creating an AirBnB-like webapp as part of a team of 4.
 
 ### Weekly Goals
-- [] Break down projects into tasks and allocate them to pairs
-- [] Build to a specification (rather than challenges)
-- [] Run stand-ups and retrospectives
-- [] Use a branch/PR/merge git workflow
-- [] Give and receive meaningful code review
-- [] Recognise that contributions to teamwork do not always involve writing code
+- [x] Break down projects into tasks and allocate them to pairs
+- [x] Build to a specification (rather than challenges)
+- [x] Run stand-ups and retrospectives
+- [x] Use a branch/PR/merge git workflow
+- [x] Give and receive meaningful code review
+- [x] Recognise that contributions to teamwork do not always involve writing code
 
 #### Evidence
 
