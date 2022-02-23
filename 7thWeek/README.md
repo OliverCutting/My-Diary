@@ -50,6 +50,8 @@ Makersbnb repo holds all of my work for the week.
 
 ### Reflection
 #### Thoughts
+I quite enjoyed this week, it was very interesting to work on such a big application from start to finish in a 'real world' sort of setting. I still think my git hygeine needs a bit of work but other than that I'm very happy with the work I produced.
 
 #### Improvements
+I think my biggest drawback this week was my debugging approach. I feel like I've gotten quite confident with reading error messages so had for the most part forgotten about my effective approach of printing out all my variables and following the flow and what this culminated in was me missing a very simple error and allowing it to block me for an entire day, which is absolutely no good. So next week I will try to put extra focus on going through the process step by step even if I think the problem is straight forward.
 
