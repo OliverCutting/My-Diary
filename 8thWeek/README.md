@@ -1,57 +1,56 @@
-# Week 7: Makers BnB
-This week I am tasked with creating an AirBnB-like webapp as part of a team of 4.
+# Week 8: Learning a new language! Python!
+This week I am tasked with taking everything I have learned so far, and applying it to a new language. 
 
 ### Weekly Goals
-- [x] Break down projects into tasks and allocate them to pairs
-- [x] Build to a specification (rather than challenges)
-- [x] Run stand-ups and retrospectives
-- [x] Use a branch/PR/merge git workflow
-- [x] Give and receive meaningful code review
-- [x] Recognise that contributions to teamwork do not always involve writing code
-
-#### Evidence
-Makersbnb repo holds all of my work for the week.
+- [x] Describe a process for learning a new language
+- [x] Follow an effective process for learning a new language
+- [x] Compare and contrast Javascript and Ruby
+- [x] Test drive a simple front-end web app with Javascript
+- [x] The broader course goals relevant to this module are...
+- [x] I can design and build user interfaces
+- [x] I test-drive my code
+- [x] I use my own initiative
 
 ### Daily Goals
 #### Monday
-* GOAL: Set out our team plan for the week and come up with a plan for an MVP
+* GOAL: Learn basic syntax for python
 
-* PLAN: Meet on zoom to discuss working hours, breaks, MVP etc.
+* PLAN: Complete challenges and research how to use if/else statements, classes, methods etc 
 
-* EVIDENCE: Our team came up with our plan for MVP and created the base site for it as a group
+* EVIDENCE: Completed 10 basic challenges in python
 
 #### Tuesday
-* GOAL: Learn about git branching
+* GOAL: Be able to apply methods to a python application
 
-* PLAN:  Split into pairs to work on different git branches and merge them to main at the end
+* PLAN:  Add the .add , .remove , and .all methods to the python music player
 
-* EVIDENCE: Many branches created used and merged on the makersbnb repo
+* EVIDENCE: Used self.tracks instance variable to store tracks and used the methods to edit that list of tracks.
 
 #### Wednesday
-* GOAL: Learn about Registration and Authentication
+* GOAL: Learn about python data classes
 
-* PLAN: Use BCrypt to encrypt user details and allow registration/authentication
+* PLAN: Add a Track dataclass to my python music player so I can store information such as title, artist, and file location.
 
-* EVIDENCE: Makersbnb repo has this functionality
+* EVIDENCE: Used @dataclass to create my dataclass and title: str to set the data type.
 
 #### Thursday
-* GOAL: Perform more complex SQL queries linking multiple tables
+* GOAL: Give the music player the ability to play songs
 
-* PLAN: Use foreign ids to link the bookings/rooms/users tables 
+* PLAN: Use subprocess and afplay
 
-* EVIDENCE: All tables are linked and some pages perform complex sql queries to draw information from multiple tables at a time
+* EVIDENCE: Created a MusicPlayer class which took the subproccess as an argument and then uses .call on it to call afply on the file location.
  
 #### Friday
-* GOAL: Learn how to send emails from a program!
+* GOAL: Learn about python lambdas and comprehensions. Learn how to save information using python
 
-* PLAN: Use Pony to send confirmation emails!
+* PLAN: Use lambdas and list comprehensions to give the music player the ability to search for songs and save added songs to a csv file.
 
-* EVIDENCE:  Makersbnb sends confirmation emails for signing up and notifications after performing multiple actions on the site!
+* EVIDENCE:  Used 'return [track for track in self.tracks if condition(track)]' where condition = 'return lambda track: query in track.title.lower()'.
 
 ### Reflection
 #### Thoughts
-I quite enjoyed this week, it was very interesting to work on such a big application from start to finish in a 'real world' sort of setting. I still think my git hygeine needs a bit of work but other than that I'm very happy with the work I produced.
+This week posed a lot of new challenges bringing together everything I have learned so far in ruby and applying it to a different language. Most of this week was spent reading documentation on basic things to try and understand how to work them in the new language, which was a contrast to previous weeks where I knew the basic things and had to read up how to use them. I believe I performed well still and I am happy with my progress although there is still a lot to learn with python.
 
 #### Improvements
-I think my biggest drawback this week was my debugging approach. I feel like I've gotten quite confident with reading error messages so had for the most part forgotten about my effective approach of printing out all my variables and following the flow and what this culminated in was me missing a very simple error and allowing it to block me for an entire day, which is absolutely no good. So next week I will try to put extra focus on going through the process step by step even if I think the problem is straight forward.
+Moving on I think I need to focus on list comprehensions and lambdas a bit as I struggled to get them implemented and im not sure I fully grasped the concept behind my implementation.
 
