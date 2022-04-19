@@ -6,7 +6,7 @@
 #### Week 1
 - [x] Create an S3 Bucket for your static website on AWS
 - [x] Set up CI using GitLab CI/CD
-- [x] Set up CD using GitLab CI/CD
+- [x] Set up CD using GitLab CI/CD
 - [x] Create a python AWS Lambda
 - [x] Create an API Gateway endpoint
 
