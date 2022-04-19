@@ -1,17 +1,31 @@
-# Week 12: Serverless CI-CD
-This week I am tasked with setting up a static website in an s3 bucket which will consume an AWS lambda
+# DO Bootcamp Fundamentals
+## Weeks 1-3
 
-### Weekly Goals
+### Goals
+
+#### Week 1
 - [x] Create an S3 Bucket for your static website on AWS
 - [x] Set up CI using GitLab CI/CD
-- [x] Set up CD using GitLab CI/CD
-- [x] Create a python AWS Lambda
+- [x] Set up CD using GitLab CI/CD
+- [x] Create a python AWS Lambda
 - [x] Create an API Gateway endpoint
 
+#### Week 2
+- [x] Can you work as part of a team to build your own CI-CD solution using GitLab CI/CD?
+- [x] Can you work as part of a team to deploy a static website on AWS using your own CI-CD solution?
+- [x] Can you work as part of a team to create a basic serverless architecture for your static website?
+
+####Week 3
+- [x] Do you have a solid knowledge of IAM in AWS? You can explain the following concepts: users, groups, policies and roles
+- [x] Can you work as part of a team to build your own CI-CD solution using GitLab CI/CD?
+- [x] Can you work as part of a team to deploy an existing application on EC2?
+- [x] Can you apply security best practices around credentials and token storage?
+
+
 ### Reflection
+
 #### Thoughts
-I found this week relatively straight forward, with the only hurdles being the new services and terminology I was encountering. Setting up gitlab CI/CD took the longest but as soon as I realized it was just a script running terminal commands it was quite easy to get working. Setting up the API gateway also took a moment as I didn't quite understand what it was doing at first however a bit of diagramming helped me to see what needed to be done.
+These three weeks presented a lot of new challenges due to the amount of new services needed to complete each task, because of this each task started off feeling like I had hit a brick wall and couldn’t progress however after a bit of time and research to aid my understanding in what was going on I found that the tasks weren’t as complex as I had first thought and managed to complete them fairly quickly.
 
 #### Improvements
-Focus on diagramming at the beginning of the project rather than waiting to get stuck.
-
+Since the main hurdles I faced across these projects were based on my understanding of the services and theory behind what I was trying to do, in future weeks I will spend more time planning and diagramming before working to try and establish that understanding.
