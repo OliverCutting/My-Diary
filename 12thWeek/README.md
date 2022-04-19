@@ -15,7 +15,7 @@
 - [x] Can you work as part of a team to deploy a static website on AWS using your own CI-CD solution?
 - [x] Can you work as part of a team to create a basic serverless architecture for your static website?
 
-####Week 3
+#### Week 3
 - [x] Do you have a solid knowledge of IAM in AWS? You can explain the following concepts: users, groups, policies and roles
 - [x] Can you work as part of a team to build your own CI-CD solution using GitLab CI/CD?
 - [x] Can you work as part of a team to deploy an existing application on EC2?
