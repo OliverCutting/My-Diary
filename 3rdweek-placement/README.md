@@ -22,6 +22,20 @@ The first thing I did before starting this piece of work was ask my line manager
 
 Part way through this week I noticed one of my colleagues, another apprentice, struggling with a piece of work he was on. He explained to me that for the ticket he was working on regarding testing, he needed to convert an aws policy json to a specific format but was having issues doing it using code. At this point in time I was stuck with my certificates errors so I stepped away from my work to help him. It didn't take us long to come up with a solution using a json formatting module available for python.
 
+## Off the job 
+
+On my personal development day this week I spent some time completing some courses on Pluralsight including:
+
+- AWS Developer: The Big Picture
+- AWS Developer: Getting Started
+- Docker and Kubernetes: The Big Picture
+- Containerizing a software application with Docker
+
+I also made a start on:
+- AWS Developer: Designing and Developing
+
+I chose these courses as I felt they would be helpful with my first project and help to fill in any gaps in my knowledge.
+
 ## Reflection
 
 Overall I am happy with my work this week, I chose a task which I knew I would find difficult and aside from a very specific certificate issue I believe I handled the task well and produced a good piece of work. I spoke with my manager about my work at the end of the week and he gave me some tips on how I could improve it, by adding things such as a non-root user, which I will start to add next week.
